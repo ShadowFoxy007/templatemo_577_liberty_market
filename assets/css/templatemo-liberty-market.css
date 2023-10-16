@@ -2131,5 +2131,6 @@ body {
 .counter2{
   display: flex;
   height: 40px;
+  width: 100px;
   margin-left: 5%;
 }
